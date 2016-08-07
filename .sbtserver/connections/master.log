@@ -1,0 +1,16 @@
+New log file opened at Thu Aug 04 01:45:35 CST 2016 by 7012@zzw
+Taking next connection to: 57604
+New client attempting to connect on port: 57605-57604
+  Address = /10.10.217.95:57604
+This client on port 57605 has uuid bc046e3c-4967-460d-abeb-e5f81d4f22a8 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-bc046e3c-4967-460d-abeb-e5f81d4f22a8
+Taking next connection to: 57604
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 57604
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 7012@zzw logs at Thu Aug 04 01:51:35 CST 2016, goodbye.
